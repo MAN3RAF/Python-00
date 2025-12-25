@@ -111,7 +111,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**MAN3RAF**
+**lsebar AKA MAN3RAF**
 - GitHub: [@MAN3RAF](https://github.com/MAN3RAF)
 
 ## 🤝 Contributing
