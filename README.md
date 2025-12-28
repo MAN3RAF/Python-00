@@ -1,5 +1,6 @@
 # Python-00 🌱
 
+
 A collection of beginner-friendly Python exercises with a gardening and farming theme. This project is designed to help newcomers learn Python fundamentals through practical, thematic examples.
 
 ## 📚 Project Overview
